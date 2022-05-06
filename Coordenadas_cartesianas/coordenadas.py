@@ -1,7 +1,6 @@
 X = int(input("Favor ingresar coordenada en X: "))
 Y = int(input("Favor ingresar coordenada en Y: "))
-if((X > 0) and (Y  > 0)):
-    print("punto en el primer cuadrante")
+X = int(input("Favor ingresar coordenada en X: "))
 
 elif((X > 0) and (Y < 0)):
     print("Punto en el segundo cuadrante")
